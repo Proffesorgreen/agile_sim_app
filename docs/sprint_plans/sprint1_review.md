@@ -1,8 +1,9 @@
 # Sprint 1 Review
 **Project:** AASTU Library Management System — Agile Simulation
 **Sprint:** Sprint 1
-**Date:** [Date of Review]
-**Attendees:** [List team members present]
+**Date:** 05/04/2026
+**Attendees:** Kirubel Legese, Kidus Asebe, kidus hawoltu, kalkidan amare, kidus berhane, hermela dereje, kirubel wondwossen
+
 
 ---
 
@@ -22,40 +23,15 @@
 
 | Ticket | Story Title | Assignee | Points | Status |
 |--------|-------------|----------|--------|--------|
-| LIB-1 | Member registration | [Name] | 3 | ✅ Done |
-| LIB-2 | Member login | [Name] | 2 | ✅ Done |
-| LIB-3 | Member logout | [Name] | 1 | ✅ Done |
-| LIB-5 | Search for books | [Name] | 3 | ✅ Done |
-| LIB-6 | View book details | [Name] | 2 | ✅ Done |
-| LIB-7 | Borrow a book | [Name] | 3 | ✅ Done |
-| LIB-8 | Return a book | [Name] | 2 | ✅ Done |
+| DT-1 | Member registration | 3 | ✅ Done |
+| DT-2 | Member login | 2 | ✅ Done |
+| DT-3 | Member logout | 1 | ✅ Done |
+| DT-5 | Search for books | 3 | ✅ Done |
+| DT-6 | View book details | 2 | ✅ Done |
+| DT-7 | Borrow a book | 3 | ✅ Done |
+| DT-8 | Return a book | 2 | ✅ Done |
 
 **Velocity: [X] / 16 story points completed**
-
----
-
-## Carried Over Stories (if any)
-
-| Ticket | Story Title | Points | Reason Not Completed |
-|--------|-------------|--------|----------------------|
-| LIB-X | [Story] | [pts] | [Reason] |
-
----
-
-## Demo Notes
-
-### What Was Demonstrated
-<!-- Briefly describe the walkthrough you did at the end of the sprint -->
-The team demonstrated the full core library cycle:
-1. **Member Registration** — [brief note on what was shown]
-2. **Login / Logout** — [brief note]
-3. **Book Search & Detail** — [brief note]
-4. **Borrow & Return** — [brief note]
-
-### Feedback Received
-<!-- Any notes from the instructor or stakeholders if applicable -->
-- [Feedback item 1]
-- [Feedback item 2]
 
 ---
 
