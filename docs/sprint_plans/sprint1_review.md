@@ -48,5 +48,5 @@
 ---
 
 ## Sprint 2 Preview
-Based on Sprint 1 velocity ([X] pts), the team is committing to 24 points in Sprint 2.
+Based on Sprint 1 velocity (16 pts), the team is committing to 24 points in Sprint 2.
 Key focus areas: OTP recovery, librarian features, member dashboard, analytics, and testing.
