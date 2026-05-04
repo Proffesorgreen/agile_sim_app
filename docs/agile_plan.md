@@ -10,19 +10,13 @@ is built using the Scrum Agile framework.
 - Sprint Length: 2 weeks
 - Ceremonies: Planning, Daily Standup, Review, Retrospective
 - Artefacts: Product Backlog, Sprint Backlog, Increment
-## 3. Roles (Simulated Solo)
-| Role | Simulated By |
-|------------------|--------------|
-| Product Owner | You |
-| Scrum Master | You |
-| Developer | You |
-## 4. Jira Configuration
-- Project: AASTU Library Agile Sim (LIB)
-- URL: [your-jira-url]
+## 3. Jira Configuration
+- Project: AASTU Library Agile Sim (DT)
+- URL: `[https://ermiasyohannes262.atlassian.net]`
 - Integration: GitHub for Jira app installed
-## 5. Git Workflow
+## 4. Git Workflow
 - Branching: feature/TICKET-KEY-description
 - Protected: main branch (PR required)
 - Commit format: type(scope): TICKET-KEY description
-## 6. Definition of Done
+## 5. Definition of Done
 See docs/definition_of_done.md

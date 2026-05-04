@@ -1,7 +1,12 @@
+import { LoginForm } from "@/components/login-form";
+import { Button } from "@/components/ui/button";
 import { PanelsTopLeft } from "lucide-react";
 import Link from "next/link";
+import { GitHubLogoIcon } from "@radix-ui/react-icons";
 import { ModeToggle } from "@/components/mode-toggle";
-import { ForgetPasswordForm } from "@/components/forget-pass-form";
+import { SignupForm } from "@/components/signup-form";
+import { SignupOTPForm } from "@/components/signup-otp-form";
+import { ForgetPasswordForm } from "@/components/forget-password-form";
 
 export default function ForgetPasswordPage() {
   return (
