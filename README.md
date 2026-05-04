@@ -51,13 +51,11 @@ The AASTU library Management System includes:
 .
 ├── .github/
 │   ├── PULL_REQUEST_TEMPLATE/
-│   │   └── pull_request_template.md   # Enforces ticket linking on every PR
-│   └── CODEOWNERS                     # Auto-assigns reviewers by module
+│      └── pull_request_template.md   # Enforces ticket linking on every PR
 │
 ├── docs/
 │   ├── agile_plan.md                  # Agile process plan (replaces SCMP)
 │   ├── definition_of_done.md          # Global Definition of Done
-│   ├── TEAM_AGREEMENTS.md             # Team working agreements
 │   ├── sprint_plans/
 │   │   ├── sprint1_plan.md
 │   │   ├── sprint1_review.md
@@ -66,9 +64,6 @@ The AASTU library Management System includes:
 │   ├── retrospectives/
 │   │   ├── sprint1_retro.md
 │   │   └── sprint2_retro.md
-│   ├── standup_logs/
-│   │   ├── sprint1_standups.md
-│   │   └── sprint2_standups.md
 │   └── release_notes/
 │       ├── v1.0.md
 │       └── v1.1.md
@@ -77,11 +72,9 @@ The AASTU library Management System includes:
 │   ├── frontend/                      # Next.js + Tailwind CSS
 │   └── backend/                       # Go (Golang) + Gin Framework
 │
-├── tests/                             # Unit test files
 │
 ├── releases/                          # Release artefacts
 │
-├── STANDUP.md                         # Running daily standup log
 └── README.md
 ```
 
