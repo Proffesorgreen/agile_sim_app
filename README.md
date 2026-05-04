@@ -169,9 +169,6 @@ This project follows the Scrum framework with two 2-week sprints:
 | DT-11 | As a member I want a dashboard showing my borrowings and due dates | Dashboard | 3 | Sprint 2 |
 | DT-12 | As a librarian I want analytics showing most borrowed books and peak usage | Dashboard | 3 | Sprint 2 |
 | DT-13 | As a user I want the system to be responsive on desktop and mobile | Dashboard | 2 | Sprint 2 |
-| DT-14 | As a developer I want unit tests for the auth module to catch regressions | Testing | 3 | Sprint 2 |
-| DT-15 | As a developer I want unit tests for borrow and return endpoints | Testing | 3 | Sprint 2 |
-| DT-16 | As a product owner I want a production release v1.1 with a full changelog | Testing | 2 | Sprint 2 |
 
 ---
 
